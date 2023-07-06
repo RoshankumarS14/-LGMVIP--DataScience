@@ -16,10 +16,9 @@ The goal of this project is to utilize the Stacked LSTM architecture to forecast
 
 ## 🗂️ Repository Structure
 
-- `project_code.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the Stock Price Forecasting and Prediction using Stacked LSTM project.
-- `stock_price_dataset.csv`: CSV file containing the historical stock price data used for training and testing the model.
+- `Stock Market prediction and Forecasting using Stacked LSTM.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the Stock Price Forecasting and Prediction using Stacked LSTM project.
 
-Feel free to explore the Jupyter Notebook (`project_code.ipynb`) for more details, including the code implementations, data analysis, and model evaluation.
+Feel free to explore the Jupyter Notebook (`Stock Market prediction and Forecasting using Stacked LSTM.ipynb`) for more details, including the code implementations, data analysis, and model evaluation.
 
 ## 💻 Requirements
 
