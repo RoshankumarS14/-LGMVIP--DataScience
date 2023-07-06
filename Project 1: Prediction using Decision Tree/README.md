@@ -16,9 +16,9 @@ The goal of this project is to develop a classification model using the decision
 
 ## 🗂️ Repository Structure
 
-- `project_code.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the prediction using the decision tree algorithm on the Iris dataset project.
+- `Prediction using Decision Tree Algorithm.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the prediction using the decision tree algorithm on the Iris dataset project.
 
-Feel free to explore the Jupyter Notebook (`project_code.ipynb`) for more details, including the code implementations, data analysis, and model evaluation.
+Feel free to explore the Jupyter Notebook (`Prediction using Decision Tree Algorithm.ipynb.ipynb`) for more details, including the code implementations, data analysis, and model evaluation.
 
 ## 💻 Requirements
 
