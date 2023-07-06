@@ -26,5 +26,11 @@ To run the code and reproduce the results, you will need Python 3.x and the foll
 - Keras
 
 You can install the required libraries using pip:
+pip install numpy pandas scikit-learn keras
 
+## 🙏 Acknowledgments
+
+I would like to express my gratitude to Let's Grow More for providing me with the opportunity to participate in their Virtual Internship Program in Data Analytics. The program has been instrumental in enhancing my skills and knowledge in the field of data analytics.
+
+Happy analyzing! 📊🚀
 
