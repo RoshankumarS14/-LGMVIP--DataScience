@@ -13,7 +13,7 @@ In this project, I focused on forecasting and predicting stock prices using a St
 ## 🗂️ Repository Structure
 
 - `Project 1: Prediction using Decision Tree/`: Contains the code, dataset, and documentation for the Prediction using Decision Tree Algorithm project.
-- `Project2_Stock_Price_Forecasting/`: Contains the code, dataset, and documentation for the Stock Price Forecasting and Prediction using Stacked LSTM project.
+- `Project 2: Stock Market Prediction and Forecasting/`: Contains the code, dataset, and documentation for the Stock Price Forecasting and Prediction using Stacked LSTM project.
 
 Feel free to explore each project folder for more details, including the code implementations, data analysis, and project documentation.
 
